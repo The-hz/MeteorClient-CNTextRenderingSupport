@@ -6,9 +6,11 @@
     "MixinFont",
     "MixinFonts",
     "MixinMeteorGuiTheme",
-    "MixinVanillaTextRenderer"
+    "MixinVanillaTextRenderer",
+    "MixinDeprecatedLanguageData"
   ],
   "injectors": {
     "defaultRequire": 1
-  }
+  },
+  "mixins": []
 }
