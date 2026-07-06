@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.cjkfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MixinFont",
+    "MixinFonts",
+    "MixinMeteorGuiTheme",
+    "MixinVanillaTextRenderer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

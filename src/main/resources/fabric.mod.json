@@ -2,26 +2,26 @@
   "schemaVersion": 1,
   "id": "meteor-client-cn-text-rendering-support",
   "version": "${version}",
-  "name": "Meteor Client CN Text Rendering Support",
+  "name": "CNTextRenderingSupportPlugin",
   "description": "An addon for Meteor Client to support Chinese text rendering.",
   "authors": [
     "The-hz"
   ],
   "contact": {
-    "repo": "https://github.com/MeteorDevelopment/meteor-client-cn-text-rendering-support"
+    "repo": "https://github.com/The-hz/MeteorClient-CNTextRenderingSupport"
   },
-  "icon": "assets/template/icon.png",
+  "icon": "assets/cjkfix/icon.png",
   "environment": "client",
   "entrypoints": {
     "meteor": [
-      "com.cjkfix.addon.CJKFixLoader"
+      "com.cjkfix.CJKFixLoader"
     ]
   },
   "mixins": [
-    "addon-template.mixins.json"
+    "meteor-client-cn-text-rendering-support.mixins.json"
   ],
   "custom": {
-    "meteor-client:color": "225,25,25"
+    "meteor-client:color": "135,206,235"
   },
   "depends": {
     "java": ">=21",
