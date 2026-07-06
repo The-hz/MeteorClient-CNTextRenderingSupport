@@ -66,7 +66,7 @@ For a complete Chinese localization experience, it is recommended to install alo
 
 ## Dependencies
 
-- Minecraft `1.20.x` (or corresponding version)
+- Minecraft `TrueVersion+Fabric` (or corresponding version)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [MeteorClient](https://github.com/MeteorDevelopment/meteor-client)
 
