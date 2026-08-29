@@ -1,6 +1,6 @@
 # 中文
 
-# MeteorClient 中文渲染支持
+# MeteorClient (MC 1.21.4) 中文渲染支持
 
 为 [MeteorClient](https://github.com/MeteorDevelopment/meteor-client) 添加中文文本渲染支持的 Fabric Mod。
 本插件是从[原仓库](https://github.com/The-hz/Meteor-Client-CNSupport)仓库搬来的，由于我懒得写，所以本插件是VibeCoding的产物。
@@ -39,7 +39,7 @@
 
 # English
 
-# MeteorClient Chinese Rendering Support
+# MeteorClient (MC 1.21.4) Chinese Rendering Support
 
 A Fabric mod that adds Chinese text rendering support for [MeteorClient](https://github.com/MeteorDevelopment/meteor-client).
 This plugin was ported from the Meteor-Client-CNSupport repository. I was too lazy to write it myself, so this plugin is pure vibe coding.
